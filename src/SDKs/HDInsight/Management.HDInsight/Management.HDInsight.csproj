@@ -12,6 +12,11 @@
 		<PackageReleaseNotes>
 			<![CDATA[
         This is a public preview release of the Azure HDInsight SDK. Fixed customization related to Hive/Oozie metastores and duplicate configurations.
+		<Version>4.1.0-preview</Version>
+		<PackageTags>Microsoft Azure HDInsight Management;HDInsight;HDInsight Management</PackageTags>
+		<PackageReleaseNotes>
+			<![CDATA[
+        This is a public preview release of the Azure HDInsight SDK. Fixed issues with creating applications and clusters with user identity.
       ]]>
 		</PackageReleaseNotes>
     
