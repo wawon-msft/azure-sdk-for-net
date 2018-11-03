@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDInsightSDKConsoleAppServicePrincipal", "HDInsightSDKConsoleAppServicePrincipal\HDInsightSDKConsoleAppServicePrincipal.csproj", "{B9155884-4BF6-4C90-AD97-24993757EBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9155884-4BF6-4C90-AD97-24993757EBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9155884-4BF6-4C90-AD97-24993757EBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9155884-4BF6-4C90-AD97-24993757EBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9155884-4BF6-4C90-AD97-24993757EBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986EF749-CDFE-47FE-A1DF-0F043A41FDFD}
+	EndGlobalSection
+EndGlobal
